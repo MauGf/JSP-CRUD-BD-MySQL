@@ -68,8 +68,8 @@
                 <div class="container padding-top-160">
                     <div class="text-center">                                                                                                                                                                 
                         <h1 class="intro-title text-capitalize white-text">Hola, Soy Mauricio García</h1>
-                        <span class="sub-intro lead white-text">Esto corresponde a lasegunda evaluacion parcial practica
-                            correspondiente a la materia programación IV, 
+                        <span class="sub-intro lead white-text">Esto corresponde a una practica
+                            con JSP, 
                             estudiaremos la conexión a base de datos utilizando 
                             variables de sesión con JSP.</span>
                         <a href="#" class="btn btn-lg waves-effect waves-light mt-30">Leer mas</a>
